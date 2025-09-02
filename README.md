@@ -15,6 +15,21 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+![Dashboard Screenshot](/dashboard-screenshot.png)
+*Clean, intuitive dashboard for email management*
+
+![Setup Process](/setup-screenshot.png)
+*One-click guided setup process*
+
+
+</div>
+
+---
+
 ## 🌟 Overview
 
 Transform your email management workflow with a **secure**, **brandable**, and **user-friendly** interface that keeps your cPanel credentials safe while empowering your team or clients to manage email accounts effortlessly.
@@ -116,31 +131,6 @@ chmod 600 config.php
 
 ### Step 5️⃣ **Start Managing**
 🎉 **You're ready!** Log in with your cPanel credentials and start managing emails.
-
----
-
-## 📸 Preview
-
-```
-┌─────────────────────────────────────────┐
-│  🏢 [YOUR LOGO]     Email Manager       │
-├─────────────────────────────────────────┤
-│                                         │
-│  📧 Create New Email                    │
-│  ┌─────────────────┐ ┌──────────────┐   │
-│  │ username        │ │ @ domain.com │   │
-│  └─────────────────┘ └──────────────┘   │
-│  ┌─────────────────────────────────────┐ │
-│  │ password                            │ │
-│  └─────────────────────────────────────┘ │
-│                                         │
-│  📋 Existing Email Accounts             │
-│  • user1@domain.com                     │
-│  • support@domain.com                   │
-│  • info@domain.com                      │
-│                                         │
-└─────────────────────────────────────────┘
-```
 
 ---
 
